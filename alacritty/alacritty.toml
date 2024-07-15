@@ -1,0 +1,21 @@
+import = ["~/.config/alacritty/dracula-pro-van-helsing.toml"]
+
+[shell]
+program = "/opt/homebrew/bin/fish"
+args = ["-l", "-c", "zellij"]
+
+[window]
+option_as_alt = "Both"
+padding.x = 10
+padding.y = 10
+
+opacity = 0.92
+
+decorations = "Buttonless"
+
+startup_mode = "Maximized"
+
+[font]
+normal.family = "JetBrainsMono Nerd Font"
+
+size = 13
