@@ -1,0 +1,379 @@
+clear
+nvim .config/alacritty/
+clear
+zellij
+clear
+config nu
+$nu.env-path
+cd "/Users/simon/Library/Application Support/nushell/env.nu"
+cd $nu.env-path
+nvim `/Users/simon/Library/Application Support/nushell`
+yarn -v
+cargo
+nvim `/Users/simon/Library/Application Support/nushell`
+clear
+cd .config/alacritty/
+ls
+nvim .
+clear
+nvim 
+nvim .
+clear
+zellij
+clear
+nvim .config/alacritty/
+clear
+nvim .config/alacritty/
+clear
+ls /opt/homebrew/bin
+which bash
+clear
+ping google.com
+pwd
+config nu
+$nu.env-path
+clear
+brew list
+$ brew install --cask wezterm<\n>
+brew install --cask wezterm
+cd /Users/simon/.kenv/scripts/
+nvim .
+clear
+pwd
+nvim
+$HOME
+$env.HOME
+which .wezterm.lua
+mkdir .config/wezterm
+cd .config/wezterm/
+nvim .config/wezterm/
+clear
+nvim .config/nvim/
+cd .config/nvim/
+nvim .config/wezterm/
+clear
+cd .config/nvim/
+nvim .
+clear
+nvim .
+cd ../zellij/
+cd .config/zellij/
+nvim .
+clear
+nvim .config/wezterm/
+clear
+ls
+cd Code/careai-virtual-monitor-lite/
+clear
+git status
+nvim .
+clear
+cd client
+npm run build:electron
+nvm use lts
+which nvm
+nvm use lts
+exit
+ls
+fish
+clear
+whois nvm
+alias
+$env.PATH
+fish
+clear
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+nvm use lts
+$nu.env-path
+cd "/Users/simon/Library/Application Support/nushell"
+$env.HOME
+$nu.env-path
+nvim .
+nvim -h
+clear
+clear
+nvm use lts
+nvm use lts
+clear
+nvm use lts
+clear
+$nu.env-path
+cd "/Users/simon/Library/Application Support/nushell"
+ls
+nvim .
+nvm use lts
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+nvm use lts
+cd "/Users/simon/Library/Application Support/nushell"
+~
+cd "/Users/simon/Library/Application Support/nushell"
+pwd
+~
+echo ~
+~
+pwd
+nvim .
+clear
+whois nvm
+whereis nvm
+nvm
+clear
+nvm
+clear
+brew upgrade all
+nvim ./config
+ls
+whois nu
+whereis nu
+pwd
+cd /opt/homebrew/bin/nu
+nvim .config
+clear
+/opt/homebrew/bin/nu
+nvim .config/zellij/
+whereis zellij
+$nu.env-path
+ls
+clear
+window:maximize()
+exit
+clear
+nvim .config/wezterm/
+clear
+nvim
+cd Code/careai-virtual-monitor-lite/
+clear
+curl -sS https://starship.rs/install.sh | sh
+$nu.env-path
+nvim `/Users/simon/Library/Application Support/nushell`
+brew upgrade
+clear
+mkdir -p ~/.config && touch ~/.config/starship.toml
+mkdir -p ~/.config; touch ~/.config/starship.toml
+mkdir -p ~/.config
+nvim .config
+ls
+ls Development/ Code
+cd Code/Personal/
+ls
+~
+mkdir source
+git clone git@github.com:smasinde/dotfiles.git
+cd dotfiles
+ls
+mkdir starship
+clear
+echo $SHELL
+$env.SHELL
+brew remove fish
+brew uninstall fish
+brew uninstall fisher
+brew uninstall fish
+$env.SHELL
+nvim .config/zellij/
+clear
+nvim
+nvim .config/nvim
+clear
+nvim .config/nvim
+clear
+cd Code/careai-virtual-monitor-lite/
+ls
+clear
+nvim .config/nvim
+nvim
+clear
+ping google.com
+clear
+nvim .
+clear
+$env.SHELL
+$nu.env-path | cd
+pwd
+$nu.env-pat
+$nu.env-path
+whereis nu
+nvim `/Users/simon/Library/Application Support/nushell/`
+$env.SHELL
+cd Code/careai-virtual-monitor-lite/
+cler
+clear
+git fetch
+git status
+git pull
+cd client | npm run build:electron
+cd .. | cd electron-app | npm run de
+npm run dev
+clear
+npm dev
+npm run dev
+yd
+alias yd = yarn dev
+yd
+clear
+yd
+alias yd = yarn dev
+yd
+cd electron-app/
+yd
+clear
+node -v
+nvm use lts
+fish
+ls
+fish
+exit
+nu
+clear
+whereis nu
+whereis nvm
+nvm use lts
+fish
+nvim `/Users/simon/Library/Application Support/nushell/`
+exit
+clear
+nvm use lts
+npm -v
+node -v
+clear
+ls
+cd client
+npm run build:electron
+cd ../electron-app/
+ls
+npm run electron-build
+clear
+xrun -h
+fish
+clear
+yarn dev
+ls
+cd /Users/simon/.kenv/scripts/
+nvim .
+nvm install lts
+cd Code/careai-virtual-monitor-lite/
+clear
+npm run electron-build
+cd electron-app/
+npm run electron-build
+yarn dev
+clear
+yarn dev
+clear
+npm run dev
+clear
+npm run dev
+cd Code/careai-virtual-monitor-lite/
+cd electron-app
+npm run dev
+npm i
+nvm use lts
+unzip -h
+curl -fsSL https://fnm.vercel.app/install | nu
+curl -fsSL https://fnm.vercel.app/install | bash
+brew upgrade
+fnm install lts
+fnm -h
+fnm ls-remote
+fnm --lts
+fnm install --lts
+clear
+npm run dev
+fnm completions --shell nu
+$nu.env-path
+cd `/Users/simon/Library/Application Support/nushell`
+$env.FNM_MULTISHELL_PATH
+npm run dev
+clear
+nmp run dev
+npm run dev
+npn run dev
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+fnm install --lts
+fnm use lts
+fnm use --lts
+cd
+ls
+cd Code/Personal/2024/destination-africa-web/
+cd ..
+cd destination-africa-web/
+clear
+npm outdated
+npm i
+clear
+nvim .
+clear
+~
+clear
+cd Code/careai-virtual-monitor-lite/
+clear
+rm /Users/simon/.local/state/nvim/shada/main.shada.temp.e
+rm /Users/simon/.local/state/nvim/shada/main.shada.tmp.e
+clear
+nvim .
+clear
+node -v
+clear
+cd electron-app
+npm run electron-build
+pwd
+cd dotfiles/
+ls
+clear
+ls
+cd dotfiles
+ls
+mkdir wezterm
+cp ~/.config/wezterm/
+cp ~/.config/wezterm/ .
+cp ~/.config/wezterm/ . --recursive
+ls
+ls wezterm
+nvim wezterm/
+clear
+nvim .
+ssh-add -l
+clear
+ssh-add ~/.ssh/simonmasinde-GitHub
+ssh-add -l
+clear
+ssh-add ~/.ssh/air_ed25519
+ssh-add -l
+nvim .
+git status
+git push
+nvim ~/.ssh
+clear
+nvim .
+clear
+nvim ./config
+clera
+clear
+nvim ./zshrc
+clear
+ls
+clear
+echo $SHELL
+$nu.SHELL
+$env.SHELL
+ls
+cat simon-mac
+cat ./zshrc
+cat .zshrc
+clear
+ls
+cd .config
+ls
+cp ~/.zshrc zsh/
+mkdir ~/dotfiles/zsh
+cp ~/.zshrc ~/dotfiles/zsh
+cd ~/dotfiles
+clear
+$nu.env-path
+cp -R `/Users/simon/Library/Application Support/nushell` ../ 
+cp -R `/Users/simon/Library/Application Support/nushell` ~/.config
